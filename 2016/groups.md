@@ -216,3 +216,8 @@ permalink: /2016/groups/
 |28|David M.Chen|2820150157|
 |28|Zeeshan Ahmed|2820150155|
 
+|Group ID|Name|ID Number|HomeWork 1st|
+|:-------------|:-------------|:-----|:-----|
+|29|kwon dayeon |2820150089|
+|29|leesujin|282015081|
+
