@@ -10,7 +10,7 @@ permalink: /2016/groups/
 
 |组号|姓名|学号|作业一|
 |:-------------|:-------------|:-----|:-----|
-|1|张燕妮|2120151065|[作业1github地址](https://github.com/jennyzhang8800/DataMining/tree/master/%E4%BD%9C%E4%B8%9A%E4%B8%80)
+|1|张燕妮|2120151065|
 |1|韩梦乔|2120150989|
 |1|刘畅|2120151011|
 |1|罗佩|2120151019|[作业1网盘地址](http://pan.baidu.com/s/1hs0M9fA)
@@ -31,13 +31,11 @@ permalink: /2016/groups/
 |3|郑清卓|2120151071|https://github.com/akzqz666/zqz
 |3|侯军|2120150992|https://github.com/houjun-data/homework1
 
->文本分类及主题挖掘
-
 |组号|姓名|学号|作业一|
 |:-------------|:-------------|:-----|:-----|
 |4|杨亮|2120151053|https://github.com/LiangYang2836/DataMing/tree/master/homework_1
 |4|王丹(男)|2120151035| https://github.com/bitwangdan/zuoye
-|4|朱鹏飞|2120151075| https://github.com/Pengfei-Zhu/DataMining/tree/master/homework-1
+|4|朱鹏飞|2120151075|
 
 > Recommending Music Items based on the Yahoo! Music Dataset.
 
@@ -180,15 +178,15 @@ permalink: /2016/groups/
 
 |组号|姓名|学号|作业一|
 |:-------------|:-------------|:-----|:-----|
-|23|严西敏|2120151051|https://github.com/yAnXImIN/DMHomeWork1
+|23|严西敏|2120151051|
 |23|欧阳童|2120151025|
 
 > 邮件自动分类
 
 |组号|姓名|学号|作业一|
 |:-------------|:-------------|:-----|:-----|
-|24|张霖|2120151063| https://github.com/cszhanglin/dm_assign.git |
-|24|杨冰|2120151052| https://github.com/bityangbing/data |
+|24|张霖|2120151063|
+|24|杨冰|2120151052| https://github.com/bityangbing/data
 
 > 亚马逊书籍推荐
 
@@ -218,3 +216,7 @@ permalink: /2016/groups/
 |28|David M.Chen|2820150157|
 |28|Zeeshan Ahmed|2820150155|
 
+|Group ID|Name|ID Number|HomeWork 1st|
+|:-------------|:-------------|:-----|:-----|
+|29|HAQ IJAZ UL |2820150089|
+|29|leesujin|2820150181|
